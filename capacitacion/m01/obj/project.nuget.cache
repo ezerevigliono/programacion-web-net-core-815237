@@ -1,12 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "L0riEsXYX8g=",
-=======
-  "dgSpecHash": "boifc5BHVSs=",
->>>>>>> 1d02dbe4381c12147576d9f3d1baf45b9be62353
   "success": true,
   "projectFilePath": "C:\\Ezequiel\\EducationIT\\NetCore\\programacion-web-net-core-815237\\capacitacion\\m01\\m01.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Ezequiel\\EducationIT\\NetCore\\programacion-web-net-core-815237\\capacitacion\\m01\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
